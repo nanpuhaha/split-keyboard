@@ -26,3 +26,6 @@
 [submodule "fortitude60"]
 	path = fortitude60
 	url = https://github.com/Pekaso/fortitude60
+[submodule "pica40"]
+	path = pica40
+	url = https://github.com/zzeneg/pica40
