@@ -32,3 +32,6 @@
 [submodule "Wubbo"]
 	path = Wubbo
 	url = https://github.com/cacheworks/Wubbo
+[submodule "chocofi"]
+	path = chocofi
+	url = https://github.com/pashutk/chocofi
