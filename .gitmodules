@@ -35,3 +35,6 @@
 [submodule "chocofi"]
 	path = chocofi
 	url = https://github.com/pashutk/chocofi
+[submodule "helix"]
+	path = helix
+	url = https://github.com/MakotoKurauchi/helix
