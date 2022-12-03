@@ -38,3 +38,6 @@
 [submodule "helix"]
 	path = helix
 	url = https://github.com/MakotoKurauchi/helix
+[submodule "takmak"]
+	path = takmak
+	url = https://github.com/seniorsoftwarevlogger/takmak
