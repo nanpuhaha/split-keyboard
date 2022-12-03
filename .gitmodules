@@ -41,3 +41,6 @@
 [submodule "takmak"]
 	path = takmak
 	url = https://github.com/seniorsoftwarevlogger/takmak
+[submodule "KLOR"]
+	path = KLOR
+	url = https://github.com/GEIGEIGEIST/KLOR
