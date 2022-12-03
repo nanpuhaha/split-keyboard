@@ -23,3 +23,6 @@
 [submodule "corneliuskbd"]
 	path = corneliuskbd
 	url = https://github.com/foostan/corneliuskbd
+[submodule "fortitude60"]
+	path = fortitude60
+	url = https://github.com/Pekaso/fortitude60
