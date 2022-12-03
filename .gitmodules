@@ -8,3 +8,6 @@
 [submodule "crkbd"]
 	path = crkbd
 	url = https://github.com/foostan/crkbd
+[submodule "redox-keyboard"]
+	path = redox-keyboard
+	url = https://github.com/mattdibi/redox-keyboard
