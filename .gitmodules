@@ -1,3 +1,7 @@
 [submodule "Lotus58"]
 	path = Lotus58
 	url = https://github.com/TweetyDaBird/Lotus58
+[submodule "Lily58"]
+	path = Lily58
+	url = https://github.com/kata0510/Lily58.git
+	branch = master
