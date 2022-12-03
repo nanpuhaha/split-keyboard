@@ -47,3 +47,6 @@
 [submodule "piantor"]
 	path = piantor
 	url = https://github.com/beekeeb/piantor
+[submodule "KLOTZ"]
+	path = KLOTZ
+	url = https://github.com/GEIGEIGEIST/KLOTZ
