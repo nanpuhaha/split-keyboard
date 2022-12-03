@@ -44,3 +44,6 @@
 [submodule "KLOR"]
 	path = KLOR
 	url = https://github.com/GEIGEIGEIST/KLOR
+[submodule "piantor"]
+	path = piantor
+	url = https://github.com/beekeeb/piantor
