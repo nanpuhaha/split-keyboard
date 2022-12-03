@@ -5,3 +5,6 @@
 	path = Lily58
 	url = https://github.com/kata0510/Lily58.git
 	branch = master
+[submodule "crkbd"]
+	path = crkbd
+	url = https://github.com/foostan/crkbd
