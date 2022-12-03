@@ -11,3 +11,6 @@
 [submodule "redox-keyboard"]
 	path = redox-keyboard
 	url = https://github.com/mattdibi/redox-keyboard
+[submodule "custom-topre-guide"]
+	path = custom-topre-guide
+	url = https://github.com/tomsmalley/custom-topre-guide
