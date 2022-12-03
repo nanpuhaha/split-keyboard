@@ -20,3 +20,6 @@
 [submodule "CorneECRevival"]
 	path = CorneECRevival
 	url = https://github.com/Cipulot/CorneECRevival
+[submodule "corneliuskbd"]
+	path = corneliuskbd
+	url = https://github.com/foostan/corneliuskbd
