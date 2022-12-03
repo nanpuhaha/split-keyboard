@@ -56,3 +56,6 @@
 [submodule "void_ergo"]
 	path = void_ergo
 	url = https://github.com/victorlucachi/void_ergo
+[submodule "cantor"]
+	path = cantor
+	url = https://github.com/diepala/cantor
