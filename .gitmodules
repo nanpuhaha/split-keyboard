@@ -14,3 +14,6 @@
 [submodule "custom-topre-guide"]
 	path = custom-topre-guide
 	url = https://github.com/tomsmalley/custom-topre-guide
+[submodule "EC87"]
+	path = EC87
+	url = https://github.com/Cipulot/EC87
