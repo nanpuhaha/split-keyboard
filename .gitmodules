@@ -50,3 +50,6 @@
 [submodule "KLOTZ"]
 	path = KLOTZ
 	url = https://github.com/GEIGEIGEIST/KLOTZ
+[submodule "hillside"]
+	path = hillside
+	url = https://github.com/mmccoyd/hillside
