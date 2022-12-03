@@ -6,7 +6,7 @@
 	url = https://github.com/kata0510/Lily58.git
 [submodule "ErgoTravel"]
 	path = ErgoTravel
-	url = https://github.com/jpconstantineau/ErgoTravel.git
+	url = git@github.com:jpconstantineau/ErgoTravel.git
 [submodule "crkbd"]
 	path = crkbd
 	url = https://github.com/foostan/crkbd
