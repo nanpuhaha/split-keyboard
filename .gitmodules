@@ -53,3 +53,6 @@
 [submodule "hillside"]
 	path = hillside
 	url = https://github.com/mmccoyd/hillside
+[submodule "void_ergo"]
+	path = void_ergo
+	url = https://github.com/victorlucachi/void_ergo
